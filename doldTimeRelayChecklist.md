@@ -73,301 +73,316 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >DRIVE TECHNOLOGY AND MOTORSTARTERS</th>
+        <th class="tg-fpmh" >TIME RELAYS AND TIMERS</th>
     </tr>
     </thead>
 </table>
 
 **Product Type:**
-- [ ] Softstarter
-- [ ] Motor Brake Relay
-- [ ] Motorstarter
-- [ ] Solid State Relay / Solid State Contactor
-- [ ] Reversing Contactor
-- [ ] Speed Controller / Phase Controller
+- [ ] Multifunction Relays
+- [ ] Time Relay On Delayed
+- [ ] Time Relay Off Delayed
+- [ ] Flasher Relays
+- [ ] Cyclic Timers
+- [ ] Fleeting Action Relays
+- [ ] Pulse Extenders
+- [ ] Star-delta Timer Relays
+- [ ] Safety Time Relays
 
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >Softstarters</th>
+        <th class="tg-fpmh" >Multifunction Relays</th>
     </tr>
     </thead>
 </table>
 
-**230 V up to (For Single Phase Motors) :**
-- [ ] 1,5 kW
-- [ ] 5 kW
-- [ ] 3 kW
-- [ ] 5,5 kW
-
-**400 V up to (For Three Phase Motors) :**
-- [ ] 0,75 kW
-- [ ] 4 kW
-- [ ] 5,5 kW
-- [ ] 7,5 kW
-- [ ] 11 kW
-- [ ] 15 kW
-- [ ] 18,5 kW
-- [ ] 22 kW
-- [ ] 30 kW
-
-**Load Voltage Up To:**
-- [ ] AC 230 V
-- [ ] AC 480 V
-- [ ] 3AC 230 / 400 V
-- [ ] 3AC 400 V
-- [ ] 3AC 460 V
-- [ ] 3AC 480 V
-- [ ] 3AC 475 V
-
-**Extra Functions:**
-- [ ] Temperature Monitoring
-- [ ] Mains Monitoring
-
-**Approvals and Markings**
-- [ ] TUV
-- [ ] UKCA
-- [ ] UL-listed C/US, UKCA
-
-**Widths:**
-- [ ] 22,5 mm
-- [ ] 35 mm
-- [ ] 45 mm
-- [ ] 52,5 mm
-- [ ] 67,5 mm
-- [ ] 72 mm
-- [ ] 90 mm
-- [ ] 100 mm
-- [ ] 103 mm
-- [ ] 105 mm
-- [ ] 112,5 mm
-- [ ] 205 mm
-
-**Contacts:**
-- [ ] 1 Changeover
-- [ ] 2x1 NO Contact
-- [ ] 2x1 Changeover
-- [ ] 3x1 NO Contact
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >Motor Brake Relays</th>
-    </tr>
-    </thead>
-</table>
-
-**Width (45mm - 110mm):**
-
-**Braking Time Adjustable Up To Max:**
-- [ ] 15s
-- [ ] 20s
-- [ ] 31s
-- [ ] 320s
-
-**Braking Current Adjustable Up To Max:**
-- [ ] 25 A
-- [ ] 32 A
-- [ ] 60 A
-- [ ] 80 A
-- [ ] 600 A
-
-**Contacts:**
-- [ ] 1 Changeover
-- [ ] 2 NO Contacts
-- [ ] 4 NO Contacts
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >Motorstarters</th>
-    </tr>
-    </thead>
-</table>
-
-**Load Current Up To:**
-- [ ] 5 A
-- [ ] 7 A
-- [ ] 9 A
-
-**Phase:**
-- [ ] 1 Phase
-- [ ] 3 Phase
-
-**Approvals and Markings**
-- [ ] UL-listed C/US
-- [ ] UKCA
-- [ ] UL-listed C/US, UKCA
-
-**Aux Voltage:**
-- [ ] DC 24 V
-
-**Bus Interface:**
-- [ ] Modbus RTV
-
-**Contacts:**
-- [ ] 1 Changeover
-
-**Load Voltage Up To:**
-- [ ] AC 230 V
-- [ ] 3AC 200 - 480 V
-
-**Width (22mm Only)**
-- [ ] Yes
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >Solid State Relays / Contactors</th>
-    </tr>
-    </thead>
-</table>
-
-**Load Current Up To:**
-- [ ] 40 A
-- [ ] 45 A
-- [ ] 2 x 48 A
-- [ ] 50 A
-- [ ] 60 A
-- [ ] 88 A
-- [ ] 125 A
-
-**Widths:**
-- [ ] 22,5mm
-- [ ] 45mm
-- [ ] 67,5mm
-- [ ] 90mm
-- [ ] 112,5mm
-
-**Number of Poles:**
-- [ ] 1
-- [ ] 2
-- [ ] 3
-
-**On/Off Input Control:**
-- [ ] DC
-- [ ] AC
-- [ ] AC/DC
-
-**Load Voltage Up To:**
-- [ ] AC 400 V
-- [ ] AC 480 V
-- [ ] AC 600 V
-
-**Approvals and Markings**
-- [ ] -
-- [ ] UL-rec. C/US
-- [ ] UL-listed C/US
-
-**Aux Voltage:**
-- [ ] DC 24 V
-
-**Analog Input Control:**
-- [ ] 4 - 20mA
-
-**Contacts:**
-- [ ] 1 Changeover
-- [ ] with Signal Contact
-- [ ] without Signal Contact
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >Reversing Contactors</th>
-    </tr>
-    </thead>
-</table>
-
-**Load Current Up To:**
-- [ ] 12 A
-- [ ] 20 A
-
-**Widths:**
-- [ ] 45mm
-- [ ] 67,5mm
-- [ ] 90mm
-- [ ] 112,5mm
-
-**Number of Poles:**
-- [ ] 3
-
-**On/Off Input Control:**
-- [ ] DC
-- [ ] AC
-- [ ] AC/DC
-
-**Load Voltage Up To:**
-- [ ] 3AC 24 - 480 V
-- [ ] 3AC 400 V
+**Time Functions:**
+- [ ] On-delay
+- [ ] Off-delay, with control signal
+- [ ] On- and Off-delay
+- [ ] Cyclic timer
+- [ ] Flasher relay
+- [ ] Fleeting on make
+- [ ] Fleeting on brake
+- [ ] Fleeting on make and brake
+- [ ] Impulsgeber
+- [ ] Pulse extender
 
 **Approvals and Markings**
 - [ ] -
 - [ ] UL-listed C/US
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA, CCC
 
-**Contacts:**
-- [ ] 1 Changeover
-- [ ] 2 x 1 Changeover
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >Speed / Phase Controller</th>
-    </tr>
-    </thead>
-</table>
-
-**Nominal Load Up To:**
-- [ ] 0,3 kW
-- [ ] 2,2 kW
-
-**Width (53mm - 68mm):**
-- [ ] 45mm
-- [ ] 67,5mm
-- [ ] 90mm
-- [ ] 112,5mm
-
-**Phases:**
-- [ ] 1 Phase
-- [ ] 3 Phase
-
-**Contacts:**
-- [ ] For 1 Phase Operation
-- [ ] For 3 Phase Operation
+**Time Range:**
+- [ ] 0,02s - 300h
+- [ ] 0,02s - 9999h
+- [ ] 0,05s - 30h
+- [ ] 0,05s - 300h
 
 **Enclosure Design:**
-- [ ] Switch Cabinet
-- [ ] Distribution Board
+- [ ] Switch cabinet
+- [ ] Distribution board
+
+**Contacts:**
+- [ ] 1 Changeover Delayed, 1 Changeover Undelayed
+- [ ] 1 Changeover Delayed
+- [ ] 2 Changeover Delayed
+- [ ] 1 Changeover
+- [ ] 2 Changeover
+- [ ] 2 Changeover, One Programmable as Instantaneous
+- [ ] 2 x 2 NO Contacts, 2 NC Contacts
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 52mm):**
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Timers On-delay</th>
+    </tr>
+    </thead>
+</table>
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UL-listed C/US
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA
+
+**Time Range:**
+- [ ] 0,05s - 300s
+- [ ] 0,05s - 60min
+- [ ] 0,05s - 10h
+- [ ] 0,05s - 16h
+- [ ] 0,05s - 100h
+- [ ] 0,05s - 300h
+- [ ] 0,06s - 160s
+- [ ] 0,1s - 60min
+- [ ] 0,1s - 10h
+- [ ] 0,15s - 60h
+- [ ] 0,2s - 180s
+- [ ] 0,2s - 60hr
+- [ ] 0,25s - 640min
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+- [ ] Front panel mounting
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 96mm):**
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Timers Off-delay</th>
+    </tr>
+    </thead>
+</table>
+
+**Time Functions:**
+- [ ] Off-delay, with control signal
+- [ ] Off-delay, without control signal
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA
+
+**Time Range:**
+- [ ] 0,05s - 300s
+- [ ] 0,05s - 600s
+- [ ] 0,05s - 10h
+- [ ] 0,05s - 16h
+- [ ] 0,05s - 100h
+- [ ] 0,05s - 300h
+- [ ] 0,15s - 60h
+- [ ] 0,2s - 180s
+- [ ] 0,25s - 640min
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+- [ ] Front panel mounting
+
+**Contacts:**
+- [ ] 1 Changeover Contact Delayed, 1 Changeover Undelayed
+- [ ] 1 Changeover Contact Undelayed, 1 Changeover Delayed
+- [ ] 1 NC Contact Delayed, 1 NO Contact Delayed
+- [ ] 2 Changeover Contacts Delayed
+- [ ] 1 Changeover Contact
+- [ ] 2 Changeover Contacts
+- [ ] 1 Changeover Contact Delayed
+- [ ] 1 NO Undelayed, 1 NO Delayed, 1 NC Undelayed, 1 NC Delayed
+- [ ] 1 NO Contact Undelayed, 1 Changeover Contact Delayed
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 96mm):**
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Flasher Relays</th>
+    </tr>
+    </thead>
+</table>
+
+**Time Range:**
+- [ ] 0,05s - 100s
+- [ ] 0,05s - 300h
+- [ ] 0,1s - 60min
+- [ ] 0,1s - 10h
+- [ ] 0,5s - 100s
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+
+**Contacts:**
+- [ ] 2 Changeover Contacts
+- [ ] 1 Changeover Contact Delayed
+- [ ] 1 Changeover Delayed, 1 Changeover as Immediate Contact
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 22mm):**
+
+**Time Functions:**
+- [ ] Off-delay, with control signal
+- [ ] Off-delay, without control signal
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UKCA
+- [ ] UL-listed C/US
+
+**Width(17mm - 96mm):**
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Cyclic Timers</th>
+    </tr>
+    </thead>
+</table>
+
+**Approvals and Markings**
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA
+
+**Time Range:**
+- [ ] 0,05s - 300h
+- [ ] 0,25s - 32h
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+
+**Contacts:**
+- [ ] 2 Changeover Contacts Delayed
+- [ ] 1 Changeover Contact Delayed
+- [ ] Transistor Semiconductor Output
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 45mm):**
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Flasher Relays</th>
+    </tr>
+    </thead>
+</table>
+
+**Time Range:**
+- [ ] 0,05s - 1s
+- [ ] 0,05s - 100s
+- [ ] 0,05s - 300s
+- [ ] 0,1s - 60min
+- [ ] 0,1s - 10h
+- [ ] 0,25s - 640s
+- [ ] 0,3s - 0,6s
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+
+**Contacts:**
+- [ ] 1 Changeover Contact
+- [ ] 1 Changeover Contact Delayed
+- [ ] 1 Fleeting Contact (Changeover)
+- [ ] 2 Fleeting Contacts (Changeover)
+- [ ] 1 Contact Fleeting On Make (Changeover), 1 Changeover Contact Undelayed
+//Continue here
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 22mm):**
+
+**Time Functions:**
+- [ ] Off-delay, with control signal
+- [ ] Off-delay, without control signal
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UKCA
+- [ ] UL-listed C/US
+
+**Width(17mm - 96mm):**
 
 **Quantity:**
 
