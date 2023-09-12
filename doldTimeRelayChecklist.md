@@ -150,7 +150,7 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >Timers On-delay</th>
+        <th class="tg-fpmh" >Timers On-delayed</th>
     </tr>
     </thead>
 </table>
@@ -197,7 +197,7 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >Timers Off-delay</th>
+        <th class="tg-fpmh" >Timers Off-delayed</th>
     </tr>
     </thead>
 </table>
@@ -254,54 +254,6 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >Flasher Relays</th>
-    </tr>
-    </thead>
-</table>
-
-**Time Range:**
-- [ ] 0,05s - 100s
-- [ ] 0,05s - 300h
-- [ ] 0,1s - 60min
-- [ ] 0,1s - 10h
-- [ ] 0,5s - 100s
-
-**Enclosure Design:**
-- [ ] Switch cabinet
-- [ ] Distribution board
-
-**Contacts:**
-- [ ] 2 Changeover Contacts
-- [ ] 1 Changeover Contact Delayed
-- [ ] 1 Changeover Delayed, 1 Changeover as Immediate Contact
-
-**Nominal Voltage:**
-- [ ] AC
-- [ ] DC
-- [ ] AC/DC
-
-**Width(17mm - 22mm):**
-
-**Time Functions:**
-- [ ] Off-delay, with control signal
-- [ ] Off-delay, without control signal
-
-**Approvals and Markings**
-- [ ] -
-- [ ] UKCA
-- [ ] UL-listed C/US
-
-**Width(17mm - 96mm):**
-
-**Quantity:**
-
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-<table class="tg">
-    <thead>
-    <tr>
         <th class="tg-fpmh" >Cyclic Timers</th>
     </tr>
     </thead>
@@ -346,6 +298,79 @@ Email: __________________________________   Company Website: ___________________
 </table>
 
 **Time Range:**
+- [ ] 0,05s - 100s
+- [ ] 0,05s - 300h
+- [ ] 0,1s - 60min
+- [ ] 0,1s - 10h
+- [ ] 0,5s - 100s
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+- [ ] Distribution board
+
+**Contacts:**
+- [ ] 2 Changeover contacts
+- [ ] 1 Changeover contact delayed
+- [ ] 1 Changeover delayed, 1 Changeover as immediate contact
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] DC
+- [ ] AC/DC
+
+**Width(17mm - 22mm):**
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UL-listed C/US
+- [ ] UKCA
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Star-Delta Timers</th>
+    </tr>
+    </thead>
+</table>
+
+**Time Range:**
+- [ ] 0,5s - 100s
+
+**Enclosure Design:**
+- [ ] Switch cabinet
+
+**Contacts:**
+- [ ] 1 NO Contact Fleeting On, 1 NO Contact On Delay
+- [ ] 1 Contact Fleeting On Make, 1 NO Contact On Delay
+
+**Nominal Voltage:**
+- [ ] AC
+- [ ] AC/DC
+
+**Approvals and Markings**
+- [ ] UKCA
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Fleeting Action Relays</th>
+    </tr>
+    </thead>
+</table>
+
+**Time Range:**
 - [ ] 0,05s - 1s
 - [ ] 0,05s - 100s
 - [ ] 0,05s - 300s
@@ -356,7 +381,7 @@ Email: __________________________________   Company Website: ___________________
 
 **Enclosure Design:**
 - [ ] Switch cabinet
-- [ ] Distribution board
+- [ ] Distribution Board
 
 **Contacts:**
 - [ ] 1 Changeover Contact
@@ -364,7 +389,9 @@ Email: __________________________________   Company Website: ___________________
 - [ ] 1 Fleeting Contact (Changeover)
 - [ ] 2 Fleeting Contacts (Changeover)
 - [ ] 1 Contact Fleeting On Make (Changeover), 1 Changeover Contact Undelayed
-//Continue here
+- [ ] 2 Contacts Fleeting On Make (Changeovers)
+- [ ] 1 Changeover Contact Delayed, 1 Changeove Contact Instantaneous
+- [ ] 1 Changeover Contact (Contact Fleeting On Brake)
 
 **Nominal Voltage:**
 - [ ] AC
@@ -373,16 +400,14 @@ Email: __________________________________   Company Website: ___________________
 
 **Width(17mm - 22mm):**
 
-**Time Functions:**
-- [ ] Off-delay, with control signal
-- [ ] Off-delay, without control signal
+**Time Fuction(s)**
+- [ ] Fleeting On Make
+- [ ] Fleeting On Brake
+- [ ] Fleeting On Make and Brake
 
 **Approvals and Markings**
 - [ ] -
-- [ ] UKCA
 - [ ] UL-listed C/US
-
-**Width(17mm - 96mm):**
 
 **Quantity:**
 
